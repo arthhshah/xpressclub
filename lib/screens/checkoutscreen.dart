@@ -8,8 +8,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'package:flutter_stripe/flutter_stripe.dart' hide Card;
 
-// ==================== LOYALTY MODEL ====================
-
 class LoyaltyAccount {
   final String userId;
   final int balancePoints;

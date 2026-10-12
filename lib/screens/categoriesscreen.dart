@@ -8,7 +8,6 @@ import 'package:provider/provider.dart';
 import 'package:food/provider/auth_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-// ===================== Category Model =====================
 class Category {
   final String id;
   final String name;
