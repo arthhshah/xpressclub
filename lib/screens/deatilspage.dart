@@ -26,8 +26,7 @@ class _MenuDetailsScreenState extends State<MenuDetailsScreen> {
   String? _selectedSize;
   
   static const Color _brand = Color(0xFF132C48);
-  
-  // Price conversion
+
   double get priceInUSD => widget.menuItem.price / 84;
   double get totalInUSD => (widget.menuItem.price * _quantity) / 84;
   double get totalInRupees => widget.menuItem.price * _quantity;
