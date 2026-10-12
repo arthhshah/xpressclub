@@ -19,7 +19,7 @@ class HappyExpressApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => AuthProvider()),
       ],
       child: MaterialApp(
-        title: 'Happy Xpress',
+        title: 'Xpress Club',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           useMaterial3: true,
