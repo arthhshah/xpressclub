@@ -10,3 +10,7 @@ class RunnerTests: XCTestCase {
   }
 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f97af6f (Commit 2)
