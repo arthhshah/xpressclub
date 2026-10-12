@@ -7,8 +7,6 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
 
-// ==================== EXTENSIONS FOR SAFE JSON PARSING ====================
-
 extension SafeJsonParsing on Map<String, dynamic> {
   T? getValue<T>(String key, {T? defaultValue}) {
     try {
