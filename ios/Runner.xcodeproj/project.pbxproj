@@ -3,11 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-<<<<<<< HEAD
-	objectVersion = 54;
-=======
 	objectVersion = 60;
->>>>>>> f97af6f (Commit 2)
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,10 +12,7 @@
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
 		7884E8682EC3CC0700C636F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7884E8672EC3CC0400C636F2 /* SceneDelegate.swift */; };
-<<<<<<< HEAD
-=======
 		78A318202AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */; };
->>>>>>> f97af6f (Commit 2)
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
@@ -57,10 +50,7 @@
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7884E8672EC3CC0400C636F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
-=======
 		78E0A7A72DC9AD7400C4905E /* FlutterGeneratedPluginSwiftPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = FlutterGeneratedPluginSwiftPackage; path = Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage; sourceTree = "<group>"; };
->>>>>>> f97af6f (Commit 2)
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
@@ -76,10 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
-=======
 				78A318202AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage in Frameworks */,
->>>>>>> f97af6f (Commit 2)
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,10 +84,7 @@
 		9740EEB11CF90186004384FC /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-=======
 				78E0A7A72DC9AD7400C4905E /* FlutterGeneratedPluginSwiftPackage */,
->>>>>>> f97af6f (Commit 2)
 				3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */,
 				9740EEB21CF90195004384FC /* Debug.xcconfig */,
 				7AFA3C8E1D35360C0083082E /* Release.xcconfig */,
@@ -180,12 +164,9 @@
 			dependencies = (
 			);
 			name = Runner;
-<<<<<<< HEAD
-=======
 			packageProductDependencies = (
 				78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */,
 			);
->>>>>>> f97af6f (Commit 2)
 			productName = Runner;
 			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
 			productType = "com.apple.product-type.application";
@@ -219,12 +200,9 @@
 				Base,
 			);
 			mainGroup = 97C146E51CF9000F007C117D;
-<<<<<<< HEAD
-=======
 			packageReferences = (
 				781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage" */,
 			);
->>>>>>> f97af6f (Commit 2)
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -382,11 +360,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-<<<<<<< HEAD
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
->>>>>>> f97af6f (Commit 2)
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -402,10 +376,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -426,10 +397,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.xpress.club.RunnerTests;
@@ -447,10 +415,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.xpress.club.RunnerTests;
@@ -466,10 +431,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.xpress.club.RunnerTests;
@@ -528,11 +490,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-<<<<<<< HEAD
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
->>>>>>> f97af6f (Commit 2)
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -583,11 +541,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-<<<<<<< HEAD
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
->>>>>>> f97af6f (Commit 2)
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -605,10 +559,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -631,10 +582,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-<<<<<<< HEAD
-=======
 				DEVELOPMENT_TEAM = BX7S6YS5R9;
->>>>>>> f97af6f (Commit 2)
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -683,8 +631,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-<<<<<<< HEAD
-=======
 
 /* Begin XCLocalSwiftPackageReference section */
 		781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage" */ = {
@@ -699,7 +645,6 @@
 			productName = FlutterGeneratedPluginSwiftPackage;
 		};
 /* End XCSwiftPackageProductDependency section */
->>>>>>> f97af6f (Commit 2)
 	};
 	rootObject = 97C146E61CF9000F007C117D /* Project object */;
 }

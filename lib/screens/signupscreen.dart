@@ -45,6 +45,7 @@ class _SignupScreenState extends State<SignupScreen> {
     return Scaffold(
       backgroundColor: primaryColor,
       body: SafeArea(
+        bottom: false,
         child: Column(
           children: [
             // Top Blue Section with Logo
@@ -95,7 +96,12 @@ class _SignupScreenState extends State<SignupScreen> {
                 ),
                 child: SingleChildScrollView(
                   child: Padding(
-                    padding: const EdgeInsets.all(24.0),
+                    padding: EdgeInsets.only(
+                      left: 24.0,
+                      right: 24.0,
+                      top: 24.0,
+                      bottom: 24.0 + MediaQuery.of(context).padding.bottom,
+                    ),
                     child: Form(
                       key: _formKey,
                       child: Column(

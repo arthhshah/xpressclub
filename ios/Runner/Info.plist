@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f97af6f (Commit 2)
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,11 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-<<<<<<< HEAD
-	<string>Food</string>
-=======
 	<string>Xpress Club</string>
->>>>>>> f97af6f (Commit 2)
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -23,11 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-<<<<<<< HEAD
-	<string>food</string>
-=======
 	<string>Xpress Club</string>
->>>>>>> f97af6f (Commit 2)
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -38,13 +26,8 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-<<<<<<< HEAD
-=======
-
 	<key>NSCameraUsageDescription</key>
 	<string>Xpress Club uses the camera when you choose to take a photo for a feature that requires camera access.</string>
-
->>>>>>> f97af6f (Commit 2)
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -66,10 +49,6 @@
 			</array>
 		</dict>
 	</dict>
-<<<<<<< HEAD
-=======
-
->>>>>>> f97af6f (Commit 2)
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
